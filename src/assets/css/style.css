@@ -1,0 +1,172 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: inherit;
+}
+
+html {
+    color-scheme: dark light;
+    scroll-behavior: smooth;
+}
+
+body {
+    min-height: 100vh;
+    background: #0c0c0c;
+}
+
+img,
+picture,
+svg,
+video {
+    display: block;
+    max-width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    font-size: 1.7rem;
+}
+
+p {font-family: NetflixSansLight;}
+
+
+span.watchlist--plus {
+    font-weight: bold;
+    color: #f30000;
+}
+
+img.play--button {
+    height: 8px;
+    display: inline;
+}
+
+div.watch__controls--container {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+div.watch__controls--container div {
+    margin: 0 10px;
+}
+
+div.watch--button {
+    height: 20px;
+    width: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 5px;
+    font-size: .83rem;
+    background: #f30000;
+    transform: scale(1);
+    transition: transform .2s;
+}
+
+div.watch--button:hover {
+    background: rgb(41, 41, 41);
+    transform: scale(1.05);
+    box-shadow: 2px 2px 10px black;
+}
+
+div.watch--divider {
+    width: 2px;
+    height: 20px;
+    background: rgb(105, 105, 105);
+}
+
+div.info__circle {
+    width: 15px;
+    height: 15px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    border: 1px solid white;
+    color: white;
+    font-size: .7rem;
+    cursor: default;
+}
+
+div.info__circle:hover {
+    border-color: #f30000;
+    color: #f30000;
+}
+
+@font-face {
+    font-family: NetflixSansMedium;
+    src: url('/src/assets/fonts/NetflixSansMedium.otf');
+}
+
+@font-face {
+    font-family: NetflixSansLight;
+    src: url('/src/assets/fonts/NetflixSansLight.otf');
+}
+
+* {
+    font-family: NetflixSansMedium;
+}
+
+span {
+    font-family: NetflixSansLight
+}
+
+.header__container {
+    width: 100%;
+    height: 60px;
+    display: grid;
+    grid-template-areas: "nav1 logo nav2";
+    grid-template-columns: 1fr .5fr 1fr;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5914740896358543) 0%, rgba(255, 255, 255, 0) 100%);
+    position: fixed;
+}
+
+.nav--one {
+    grid-area: nav1;
+}
+
+.logo__container {
+    grid-area: logo;
+    background: rgb(37, 37, 37);
+}
+
+.nav--two {
+    grid-area: nav2;
+}
+
+.header__ul {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__ul>li {
+    margin: 0 20px;
+}
+
+.header__ul>li>a {
+    color: white;
+    text-decoration: none;
+}
+
+.link-active {
+    color: #f30000;
+}
+
+::-webkit-details-marker, ::marker {
+    display: none !important;
+  }

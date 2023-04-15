@@ -1,0 +1,254 @@
+.page__main--container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.page__bg--container {
+    width: 70%;
+    height: calc(0.5625 * 70vw);
+}
+
+.page__bg--container>img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.page__details--container {
+    width: 30%;
+    padding: 20px;
+}
+
+.page__details--container>*:not(a):not(.page__logo--container) {
+    margin: 30px 0;
+}
+
+.page__details--container>a>div {
+    margin: 30px 0;
+}
+
+.page__logo--container {
+    width: 100%;
+    height: 50px;
+}
+
+.page__logo--container>img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: scale-down;
+}
+
+/* EPISODES */
+
+.page__episodes--container {
+    height: fit-content;
+}
+
+.page__episodes--container img {
+    border-radius: 10px;
+}
+
+.page__episodes--container>select {
+    margin-left: 50px;
+}
+
+.episodes__container {
+    width: 80%;
+    height: fit-content;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.episodes__container>details {
+    border-radius: 10px;
+    cursor: pointer;
+    background: rgb(31, 31, 31);
+}
+
+.episodes__container>details:hover {
+    background: rgb(43, 43, 43);
+}
+
+.episodes__container>details:not([open]) {
+    height: 60px;
+}
+
+.episodes__container>details:not([open]) .episode__info {
+    display: none;
+}
+
+.episode__summary {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    padding: 0 10px;
+    position: relative;
+}
+
+.episode__thumbnail {
+    height: 80%;
+    aspect-ratio: 16 / 9;
+    border-radius: 10px;
+}
+
+.episode__thumbnail>img {
+    object-fit: scale-down;
+}
+
+.episode__name {
+    width: 300px;
+    height: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.episode__name>span {
+    font-family: NetflixSansMedium;
+}
+
+.episode__synopsis {
+    width: 400px;
+    height: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.episode__synopsis>span {
+    display: inline-block;
+    width: 400px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.episode__summary>div.info__circle {
+    position: absolute;
+    margin-right: auto;
+    right: 10px;
+    top: 22px;
+}
+
+.episodes__container>details[open] {
+    height: 150px;
+}
+
+.episodes__container>details[open]>summary {
+    display: grid;
+    grid-template-columns: .3fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+        "thumbnail name"
+        "thumbnail synopsis"
+        "thumbnail info";
+}
+
+.episodes__container>details[open] .episode__thumbnail {
+    grid-area: thumbnail;
+}
+
+.episodes__container>details[open] .episode__info {
+    grid-area: info;
+}
+
+.episodes__container>details[open] .episode__synopsis>span {
+    text-overflow: initial;
+    overflow: initial;
+    white-space: initial;
+}
+
+.episodes__container>details[open] .episode__synopsis {
+    grid-area: synopsis;
+    height: fit-content;
+}
+
+.episodes__container>details[open] .episode__name {
+    grid-area: name;
+}
+
+.episodes__container>details[open] div.info__circle {
+    border-color: red;
+    color: red;
+}
+
+@media screen and (max-width: 768px) {
+    .page__main--container {
+        flex-direction: column;
+        position: relative;
+        top: 80px;
+    }
+
+    .page__bg--container {
+        width: 90%;
+        height: fit-content;
+    }
+
+    .page__details--container {
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .page__logo--container {
+        display: flex;
+        justify-content: center;
+    }
+    
+    .page__details--container>*:not(a):not(.page__logo--container) {
+        margin: 10px 0;
+    }
+
+    .page__episodes--container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+        top: 50px;
+    }
+
+    .episodes__container {
+        width: 90%;
+    }
+
+    .episodes__container>details[open] {
+        height: fit-content;
+    }
+
+    details:not([open]) .episode__synopsis {
+        display: none;
+    }
+
+    .episode__name {
+        width: 100%;
+        height: fit-content;
+    }
+
+    details[open] .episode__thumbnail {
+        height: 100px;
+    }
+
+    .episodes__container>details[open]>summary {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        row-gap: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .page__episodes--container>select {
+        width: 50%;
+        margin: 0;
+        text-align: center;
+    }
+
+    .episodes__container>details[open] .episode__synopsis>span {
+        width: 100%;
+    }
+}

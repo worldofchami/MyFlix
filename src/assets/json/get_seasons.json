@@ -1,0 +1,35 @@
+[
+  {
+    "titleId": "80057281",
+    "seasons": [
+      {
+        "name": "Stranger Things",
+        "shortName": "S1",
+        "hiddenEpisodeNumbers": false,
+        "length": 8,
+        "seasonId": 80077209
+      },
+      {
+        "name": "Stranger Things 2",
+        "shortName": "S2",
+        "hiddenEpisodeNumbers": false,
+        "length": 9,
+        "seasonId": 80117715
+      },
+      {
+        "name": "Stranger Things 3",
+        "shortName": "S3",
+        "hiddenEpisodeNumbers": false,
+        "length": 8,
+        "seasonId": 80186799
+      },
+      {
+        "name": "Stranger Things 4",
+        "shortName": "S4",
+        "hiddenEpisodeNumbers": false,
+        "length": 9,
+        "seasonId": 80229865
+      }
+    ]
+  }
+]

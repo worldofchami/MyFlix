@@ -1,0 +1,675 @@
+[
+    {
+      "seasonId": "80077209",
+      "episodes": [
+        {
+          "episodeId": "80077368",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "On his way home from a friend's house, young Will sees something terrifying. Nearby, a sinister secret lurks in the depths of a government lab.",
+            "evidenceKey": "web_synopsis|80077368_INFORMATIVE|en"
+          },
+          "displayRuntime": 2961,
+          "runtime": 2961,
+          "title": "Chapter One: The Vanishing of Will Byers",
+          "summary": {
+            "type": "episode",
+            "id": 80077368,
+            "isOriginal": true,
+            "idx": 1,
+            "episode": 1,
+            "season": 1,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUeawyJp01S5zKbXn4myjXC-Zjnswbldv61MCjK4anxtIC55X3sSad9VzVbiHFf-PewzcnJZ8DFbH-90r9iXObyzQsUDuVKW2aNJatiWIyiLoHNTcBvA8bQd.jpg?r=d74",
+                  "image_key": "MERCH_STILL|01994da0-7ec5-11e6-8984-0ed4190bdb1f|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80077369",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.",
+            "evidenceKey": "web_synopsis|80077369_INFORMATIVE|en"
+          },
+          "displayRuntime": 3372,
+          "runtime": 3372,
+          "title": "Chapter Two: The Weirdo on Maple Street",
+          "summary": {
+            "type": "episode",
+            "id": 80077369,
+            "isOriginal": true,
+            "idx": 2,
+            "episode": 2,
+            "season": 1,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRLKKpt9utEJ3bu-E-TonM1hQllvHQNILHJSiLweBAnzNMNrLNbEmpr4qJknXFZTeCuWWZffCHF6hJ-kTzJOkuhpXAy7kS3_zgLEkZqcbQLgeue1ihK5FMLI.jpg?r=cc9",
+                  "image_key": "MERCH_STILL|05c962c0-7ec5-11e6-8984-0ed4190bdb1f|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80077370",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
+            "evidenceKey": "web_synopsis|80077370_INFORMATIVE|en"
+          },
+          "displayRuntime": 3159,
+          "runtime": 3159,
+          "title": "Chapter Three: Holly, Jolly",
+          "summary": {
+            "type": "episode",
+            "id": 80077370,
+            "isOriginal": true,
+            "idx": 3,
+            "episode": 3,
+            "season": 1,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaTxc1HToU6ZkVKAaFUtUCWIU65fPnXtG2KpFswzdApZliicw9YGxHZ3kHaqhmxSz5VC1e4Xfs0z3GtD2-iMqmZhzgjQcqG-HdKpEbVd2Yn9m2tgHaspBuK_.jpg?r=8da",
+                  "image_key": "MERCH_STILL|07aa09a0-7ec5-11e6-8eea-0a28cd8f7a9f|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80077371",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover. Nancy and Jonathan form an unlikely alliance.",
+            "evidenceKey": "web_synopsis|80077371_INFORMATIVE|en"
+          },
+          "displayRuntime": 3075,
+          "runtime": 3075,
+          "title": "Chapter Four: The Body",
+          "summary": {
+            "type": "episode",
+            "id": 80077371,
+            "isOriginal": true,
+            "idx": 4,
+            "episode": 4,
+            "season": 1,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfMEB7L1y4rwvAIbzmJb1f4YZsRcUm-YURZkt3NzlAy7V8rQ41f6fivkRd8xH9NGcd-3pVOW2OsLRR874bsEMl6DSG6Bo9lh1SkaaD3Y2HiiN8XJFY2FiXWV.jpg?r=6ad",
+                  "image_key": "MERCH_STILL|089469a0-7ec5-11e6-9bbe-0e6b5a566dd7|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80077372",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.",
+            "evidenceKey": "web_synopsis|80077372_INFORMATIVE|en"
+          },
+          "displayRuntime": 3225,
+          "runtime": 3225,
+          "title": "Chapter Five: The Flea and the Acrobat",
+          "summary": {
+            "type": "episode",
+            "id": 80077372,
+            "isOriginal": true,
+            "idx": 5,
+            "episode": 5,
+            "season": 1,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ4T59nVRHKS1lBQUe5oXuUMVcqOglLZlGxCI57zIzrhId0EzwY4bIFHBSARfv2TzlzBhniSh33c01wdNVMvLnWb6N-lgr4KC8GU356ZHKvVc-van_0g2Pqh.jpg?r=6d4",
+                  "image_key": "MERCH_STILL|0a1675c0-7ec5-11e6-b391-0a77d1264d25|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80077373",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "A frantic Jonathan looks for Nancy in the darkness, but Steve's looking for her, too. Hopper and Joyce uncover the truth about the lab's experiments.",
+            "evidenceKey": "web_synopsis|80077373_INFORMATIVE|en"
+          },
+          "displayRuntime": 2851,
+          "runtime": 2851,
+          "title": "Chapter Six: The Monster",
+          "summary": {
+            "type": "episode",
+            "id": 80077373,
+            "isOriginal": true,
+            "idx": 6,
+            "episode": 6,
+            "season": 1,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX4FAZAhZD3EOWlQaXlNFFcF3YfOE5Kiwk_LMIvQW3yNGpLB7sE8EeaXyurr-e9Sr1bhlOL75_FevIJM36OwAD4JnD7AUmPihaqsnJXq9vCxN9OBTcpEGJ2Z.jpg?r=3df",
+                  "image_key": "MERCH_STILL|0d9da0b0-7ec5-11e6-9bbe-0e6b5a566dd7|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80077374",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Eleven struggles to reach Will, while Lucas warns that \"the bad men are coming.\" Nancy and Jonathan show the police what Jonathan caught on camera.",
+            "evidenceKey": "web_synopsis|80077374_INFORMATIVE|en"
+          },
+          "displayRuntime": 2569,
+          "runtime": 2569,
+          "title": "Chapter Seven: The Bathtub",
+          "summary": {
+            "type": "episode",
+            "id": 80077374,
+            "isOriginal": true,
+            "idx": 7,
+            "episode": 7,
+            "season": 1,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXHqLIyON0lOv29X503rTBy3dNqUbGZkFszbeSr6_PzVwkxIbq5x9oqb_j24n3kuabSP9Z-H2GEYT2mR1ad1J3oYipFjsOF_S3J9NfOVkn9PUYMDMwS-8KNd.jpg?r=779",
+                  "image_key": "MERCH_STILL|0fb29e00-7ec5-11e6-9cc6-0e0ad3bea79f|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80077375",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "July 15",
+            "availabilityStartTime": 1468591200000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Dr. Brenner holds Hopper and Joyce for questioning while the boys wait with Eleven in the gym. Back at Will's, Nancy and Jonathan prepare for battle.",
+            "evidenceKey": "web_synopsis|80077375_INFORMATIVE|en"
+          },
+          "displayRuntime": 3332,
+          "runtime": 3332,
+          "title": "Chapter Eight: The Upside Down",
+          "summary": {
+            "type": "episode",
+            "id": 80077375,
+            "isOriginal": true,
+            "idx": 8,
+            "episode": 8,
+            "season": 1,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdohkeQ3STKKDbuvwQ14hgTXfCqkyWycQsaaWVfHSeDsB8drZ05mOzjQDAXQOAWSFSQeqsCs6mxfuEh8BHkP8483zUGcAaCiNCtr_8a9rbgCccTqEtWPAC52.jpg?r=4b6",
+                  "image_key": "MERCH_STILL|11b524c0-7ec5-11e6-81d2-12a747d0eca5|en"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "seasonId": "80117715",
+      "episodes": [
+        {
+          "episodeId": "80117716",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins.",
+            "evidenceKey": "web_synopsis|80117716_INFORMATIVE|en"
+          },
+          "displayRuntime": 2933,
+          "runtime": 2933,
+          "title": "Chapter One: MADMAX",
+          "summary": {
+            "type": "episode",
+            "id": 80117716,
+            "isOriginal": true,
+            "idx": 1,
+            "episode": 1,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABULbr7pWI7SSAKXmMxXUjzUHOjkK2WC23d2MkGycXJV9RX45BZ9oL6Dcv16DylcKFNrEgH9btkc_WLGVzJ2Yqf1ppWmmLmK7Eff5FWk3FR_q9GhDuUmow38f.jpg?r=9e5",
+                  "image_key": "MERCH_STILL|bc6b77d0-b609-11e7-abb3-0e239ab36c92|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80144891",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "After Will sees something terrible on trick-or-treat night, Mike wonders whether Eleven's still out there. Nancy wrestles with the truth about Barb.",
+            "evidenceKey": "web_synopsis|80144891_INFORMATIVE|en"
+          },
+          "displayRuntime": 3404,
+          "runtime": 3404,
+          "title": "Chapter Two: Trick or Treat, Freak",
+          "summary": {
+            "type": "episode",
+            "id": 80144891,
+            "isOriginal": true,
+            "idx": 2,
+            "episode": 2,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYJ8bcsB56ctvmOFI510mPKfNkAJ6VlxWv9X-S6E1BtZTo7B2PzINvHXd5Qx_bWxfePPDIYFua6IRV9Bc-cqowuX-JmUAGWu6yk8kEAm7faBShEdl2UtSvmh.jpg?r=2e8",
+                  "image_key": "MERCH_STILL|4b76bcc0-b757-11e7-b0c2-12e6ca0245fe|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80144892",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Dustin adopts a strange new pet, and Eleven grows increasingly impatient. A well-meaning Bob urges Will to stand up to his fears.",
+            "evidenceKey": "web_synopsis|80144892_INFORMATIVE|en"
+          },
+          "displayRuntime": 3101,
+          "runtime": 3101,
+          "title": "Chapter Three: The Pollywog",
+          "summary": {
+            "type": "episode",
+            "id": 80144892,
+            "isOriginal": true,
+            "idx": 3,
+            "episode": 3,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTudLIjJmIjkYnlNN-lTSkXdtKkKra-liM9FsgQsV_bizHoZscFG9T3i1Mw0sLoaViqfXauJr5ugQnNUfDAbQlUxkS6P--jQJzb4fpZp9x-ipiGRfMnPnLFd.jpg?r=cfc",
+                  "image_key": "MERCH_STILL|c560b620-b609-11e7-9e74-12161571134a|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80144893",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "An ailing Will opens up to Joyce -- with disturbing results. While Hopper digs for the truth, Eleven unearths a surprising discovery.",
+            "evidenceKey": "web_synopsis|80144893_INFORMATIVE|en"
+          },
+          "displayRuntime": 2815,
+          "runtime": 2815,
+          "title": "Chapter Four: Will the Wise",
+          "summary": {
+            "type": "episode",
+            "id": 80144893,
+            "isOriginal": true,
+            "idx": 4,
+            "episode": 4,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY7JU0qAiXNUouN4W1BI8C152SDOsRH_UNl7HHgpVi5aLmm_aTY6yO1XALkgtNiIxbgx73dnV1Lj7jko2QyA4O0mTyBDwm57I81AAxaloa0g86r86iJz2Vud.jpg?r=cb5",
+                  "image_key": "MERCH_STILL|d1fa75f0-b60a-11e7-b408-0a357514e722|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80144894",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Nancy and Jonathan swap conspiracy theories with a new ally as Eleven searches for someone from her past. “Bob the Brain” tackles a difficult problem.",
+            "evidenceKey": "web_synopsis|80144894_INFORMATIVE|en"
+          },
+          "displayRuntime": 3528,
+          "runtime": 3528,
+          "title": "Chapter Five: Dig Dug",
+          "summary": {
+            "type": "episode",
+            "id": 80144894,
+            "isOriginal": true,
+            "idx": 5,
+            "episode": 5,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWeeANSKAwT7gUJGu74YQpLeOKtEn7uMW9H4QDYeG4mBUJD72DHgJNuNDmjtK7FppYjsojqN2egIAYTUo-UjrTi4hbRtAuAmLjIfcsrDmiGVuXruM9WGVoSW.jpg?r=e06",
+                  "image_key": "MERCH_STILL|f6e9f380-b755-11e7-b0c2-12e6ca0245fe|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80144895",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Will's connection to a shadowy evil grows stronger, but no one's quite sure how to stop it. Elsewhere, Dustin and Steve forge an unlikely bond.",
+            "evidenceKey": "web_synopsis|80144895_INFORMATIVE|en"
+          },
+          "displayRuntime": 3153,
+          "runtime": 3153,
+          "title": "Chapter Six: The Spy",
+          "summary": {
+            "type": "episode",
+            "id": 80144895,
+            "isOriginal": true,
+            "idx": 6,
+            "episode": 6,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYoQyYbvmNl-VtFmr4WhaL1mN5j75xdJ2rYFFcKufR2FfgS-lU21A027XJOvE6az8phYMViEpv1EUBu96cmLNlI_dUhq3OGaQY6R6WpkP0DXPUCXxln-edL1.jpg?r=bf6",
+                  "image_key": "MERCH_STILL|cc039140-b60f-11e7-8462-125bc687c5d8|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80144896",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Psychic visions draw Eleven to a band of violent outcasts and an angry girl with a shadowy past.",
+            "evidenceKey": "web_synopsis|80144896_INFORMATIVE|en"
+          },
+          "displayRuntime": 2775,
+          "runtime": 2775,
+          "title": "Chapter Seven: The Lost Sister",
+          "summary": {
+            "type": "episode",
+            "id": 80144896,
+            "isOriginal": true,
+            "idx": 7,
+            "episode": 7,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVXWbvh5of1D_cQ7XVHNtMa_0JLlCGFHqYFCMjZMXiaGt-LuicTweiNe5fX3wWNlJMmBzh3J_GFqaM18Xm3yHgTa_pUyVkm6juVkzXs-tJ7oz7fXVVqv3lwM.jpg?r=db8",
+                  "image_key": "MERCH_STILL|7029acb0-b614-11e7-b75d-0e100edc6254|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80144897",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "An unlikely hero steps forward when a deadly development puts the Hawkins Lab on lockdown, trapping Will and several others inside.",
+            "evidenceKey": "web_synopsis|80144897_INFORMATIVE|en"
+          },
+          "displayRuntime": 2911,
+          "runtime": 2911,
+          "title": "Chapter Eight: The Mind Flayer",
+          "summary": {
+            "type": "episode",
+            "id": 80144897,
+            "isOriginal": true,
+            "idx": 8,
+            "episode": 8,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABV2pTAp8DQfUobSaGVJgjz9ufDQnz_I6VTAjlgHnTZ_u4TSwbNbLCTOFzbcIKYxIM5-EBdNG23PmAu0AbldiJ739G1z5hK-b0h_UqUy6B9iMuHbEwCYMtQPC.jpg?r=54c",
+                  "image_key": "MERCH_STILL|1ed7bbc0-b616-11e7-b163-0e3e37cbee0a|en"
+                }
+              }
+            }
+          }
+        },
+        {
+          "episodeId": "80144898",
+          "availability": {
+            "isPlayable": true,
+            "availabilityDate": "October 27",
+            "availabilityStartTime": 1509112800000,
+            "unplayableCause": null
+          },
+          "bookmarkPosition": -1,
+          "contextualSynopsis": {
+            "text": "Eleven makes plans to finish what she started while the survivors turn up the heat on the monstrous force that's holding Will hostage.",
+            "evidenceKey": "web_synopsis|80144898_INFORMATIVE|en"
+          },
+          "displayRuntime": 3770,
+          "runtime": 3770,
+          "title": "Chapter Nine: The Gate",
+          "summary": {
+            "type": "episode",
+            "id": 80144898,
+            "isOriginal": true,
+            "idx": 9,
+            "episode": 9,
+            "season": 2,
+            "isPlayable": true
+          },
+          "interestingMoment": {
+            "_342x192": {
+              "webp": {
+                "$type": "atom",
+                "value": {
+                  "width": 342,
+                  "height": 192,
+                  "url": "https://occ-0-951-2433.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVSVd_8InMxv3fYJe5uS2CkqC-pP2Xb31SVlL9tzTpBcGs7QrlY-z0axG5kGf3qfVhdI-bITu_ys40jInhJoTGAp77JdBtinRABKwv7qAnmWHCtwvPXrlsR0.jpg?r=956",
+                  "image_key": "MERCH_STILL|9cf73840-b617-11e7-abb3-0e239ab36c92|en"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]

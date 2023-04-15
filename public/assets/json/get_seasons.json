@@ -1,0 +1,22 @@
+[
+  {
+    "titleId": "70136153",
+    "seasons": [
+        {
+            "name": "Season 1",
+            "shortName": "S1",
+            "hiddenEpisodeNumbers": false,
+            "length": 25,
+            "seasonId": 70147855
+        },
+        {
+            "name": "Season 2",
+            "shortName": "S2",
+            "hiddenEpisodeNumbers": false,
+            "length": 39,
+            "seasonId": 70147881
+        }
+    ]
+  }
+  ]
+  
